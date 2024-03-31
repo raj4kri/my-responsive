@@ -259,7 +259,7 @@ function Footer() {
               <div className="row gy-4 gy-md-0">
                 <div className="col-xs-12 col-sm-6 col-md-4 order-0 order-md-0">
                   <div className="footer-logo-wrapper text-center text-sm-start">
-                    <a href="#!"></a>
+                   
                   </div>
                 </div>
                 <div className="col-xs-8 col-md-4 order-2 order-md-1">
