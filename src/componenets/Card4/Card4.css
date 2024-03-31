@@ -1,0 +1,30 @@
+.heading{
+  font-style: italic;
+  font-weight: 500;
+  background-color: none;
+  border-radius: none;
+  font-size:36;
+  padding-bottom:30px;
+  
+}
+
+.subhead{
+color: rgba(128, 100, 162, 1);
+
+}
+
+.subhead1{
+  color: rgba(0, 150, 200, 1);
+
+  
+  }
+
+  .btn2{
+
+    height: 46px;
+    width: 147px;
+    background: rgba(128, 100, 162, 1);
+    color:white;
+    
+
+  }

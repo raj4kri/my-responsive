@@ -1,0 +1,36 @@
+.btn-outline{
+
+
+    border-color:rgba(128, 100, 162, 1);
+  color:  rgba(128, 100, 162, 1);
+}
+
+.btn-outline:hover{
+
+
+    background-color:rgba(128, 100, 162, 1);
+  color: white;
+}
+
+.icon{
+    color:rgba(128, 100, 162, 1);
+    /* margin: 1px; */
+
+}
+
+.icon1{
+    background-color:rgba(128, 100, 162, 1);
+    float: left;
+   color: white;
+   border-radius: 1px 3px 3px 1px ;
+   border-color: rgba(128, 100, 162, 1);
+}
+
+
+#dropdown-basic-button{
+
+    background-color:white;
+    color: black;
+    border: none;
+    font-family: poppins;
+}
