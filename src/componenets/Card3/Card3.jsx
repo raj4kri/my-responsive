@@ -14,7 +14,7 @@ const CustomCard = () => {
 
        
         <p className='name'>Shubha Nagarajan<span className='subname'>Classical Dancer</span></p>
-        <img className="image" src={img2}/>
+        <img className="image" src={img2} alt=""/>
         
       </div>
     </div>
