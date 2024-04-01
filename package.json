@@ -2,7 +2,7 @@
   "name": "my-responsive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "raj4kri.github.io/my-responsive",
+  "homepage": "https://raj4kri.github.io/my-responsive",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
