@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/raj4kri.github.io/my-responsive/static/css/main.6f7a5846.css",
-    "main.js": "/raj4kri.github.io/my-responsive/static/js/main.c6002e4e.js",
-    "static/js/453.ea189702.chunk.js": "/raj4kri.github.io/my-responsive/static/js/453.ea189702.chunk.js",
-    "static/media/img2.png": "/raj4kri.github.io/my-responsive/static/media/img2.73f658c9fab2b30de85a.png",
-    "static/media/Img.png": "/raj4kri.github.io/my-responsive/static/media/Img.b0f4fb1375be7aa2466b.png",
-    "index.html": "/raj4kri.github.io/my-responsive/index.html",
-    "main.6f7a5846.css.map": "/raj4kri.github.io/my-responsive/static/css/main.6f7a5846.css.map",
-    "main.c6002e4e.js.map": "/raj4kri.github.io/my-responsive/static/js/main.c6002e4e.js.map",
-    "453.ea189702.chunk.js.map": "/raj4kri.github.io/my-responsive/static/js/453.ea189702.chunk.js.map"
+    "main.css": "/my-responsive/static/css/main.6f7a5846.css",
+    "main.js": "/my-responsive/static/js/main.6b87f246.js",
+    "static/js/453.ea189702.chunk.js": "/my-responsive/static/js/453.ea189702.chunk.js",
+    "static/media/img2.png": "/my-responsive/static/media/img2.73f658c9fab2b30de85a.png",
+    "static/media/Img.png": "/my-responsive/static/media/Img.b0f4fb1375be7aa2466b.png",
+    "index.html": "/my-responsive/index.html",
+    "main.6f7a5846.css.map": "/my-responsive/static/css/main.6f7a5846.css.map",
+    "main.6b87f246.js.map": "/my-responsive/static/js/main.6b87f246.js.map",
+    "453.ea189702.chunk.js.map": "/my-responsive/static/js/453.ea189702.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f7a5846.css",
-    "static/js/main.c6002e4e.js"
+    "static/js/main.6b87f246.js"
   ]
 }
